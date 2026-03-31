@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Lycra-GX/Lycra-GX/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
